@@ -1,7 +1,7 @@
 // api.js - Toutes les communications avec le backend
 // Centraliser les appels API = bonne pratique pro
 
-const API_URL = 'http://localhost:3001/api'
+const API_URL = 'https://todo-backend-production-cfb7.up.railway.app/api'
 
 // ============================================
 // FONCTIONS API
